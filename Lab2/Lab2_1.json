@@ -19,13 +19,13 @@
             {
               "id": "08e7587f-b43b-4414-9bc6-b08060451495",
               "name": "name",
-              "value": "Sam",
+              "value": "Prame",
               "type": "string"
             },
             {
               "id": "c2e63abe-b41f-4ada-878c-810dd0ee8083",
               "name": "age",
-              "value": 21,
+              "value": 22,
               "type": "number"
             }
           ]
